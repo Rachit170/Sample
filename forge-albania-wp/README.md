@@ -230,7 +230,7 @@ GPL v2 or later
 
 ## Author
 
-Your Name - [Your Portfolio Website]
+Name - Rachit Rawat
 
 ---
 
