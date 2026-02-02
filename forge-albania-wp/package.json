@@ -1,0 +1,19 @@
+{
+  "name": "forge-albania-portfolio",
+  "description": "Dynamic WordPress portfolio website for Forge Albania car dealership",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "license": "GPL-2.0-or-later",
+  "keywords": [
+    "wordpress",
+    "portfolio",
+    "cars",
+    "dealership"
+  ],
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "echo 'Starting development server...'",
+    "build": "echo 'Building project...'"
+  },
+  "devDependencies": {}
+}
